@@ -29,6 +29,8 @@
   - 第29期修了生
 
 ### 活動実績・その他
+- 2023年3月　兵庫県西宮市立西宮高等学校 卒業
+
 - 2025年7月　愛媛大学工学部工学科応用情報工学コース 1~2年次　最優秀学生に選定
 
 - **[令和7年度 知財ビジネスアイデア学生コンテスト](https://www.kansai.meti.go.jp/2tokkyo/contest/idea_contest_entry2025.html?fbclid=PAdGRleAVObXJleHRuA2FlbQIxMQBwZG9mAmZkaWQWURLJus6k3tllBPE8rwHUz-qUA3qKJXNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp8oekzzVYCa6W2uK7BmuC5M1A2e6GREt5IFh8IUCvziMT8CdKrCMNLfS5PR__aem_Z8g9tGuvRcHdF45BB52sEA)(大阪・関西万博会場)**
