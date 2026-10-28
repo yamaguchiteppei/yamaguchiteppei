@@ -1,7 +1,7 @@
 ### プロフィール
 
 - 名前：山口 哲平 (Yamaguchi Teppei)
-- 所属：愛媛大学工学部工学科  応用情報工学コース [自然言語処理研究室](https://ai.cs.ehime-u.ac.jp) B4
+- 所属：愛媛大学工学部工学科  応用情報工学コース [自然言語処理研究室](https://sites.google.com/view/ehime-nlp/) B4
 - Email： [yamaguchi@ai.cs.ehime-u.ac.jp](mailto:yamaguchi@ai.cs.ehime-u.ac.jp)
 
 ### 研究業績
